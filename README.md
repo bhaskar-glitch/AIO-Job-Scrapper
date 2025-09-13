@@ -1,4 +1,4 @@
-# 🔍 Indeed Job Scraper
+# 🔍 All-In-One Job Scraper
 
 > **A powerful and user-friendly tool to scrape job listings from Indeed.com across 30+ countries**
 
